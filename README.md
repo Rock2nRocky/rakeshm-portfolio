@@ -5,7 +5,7 @@
 📫 How to reach me:rakeshrakm278@gmail.com 
 
 ## 📊 My GitHub Stats  
-![Rakesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
+![Rakesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rock2nRocky&show_icons=true)
 
 ---
 ⭐️ **Follow me for more updates!**
